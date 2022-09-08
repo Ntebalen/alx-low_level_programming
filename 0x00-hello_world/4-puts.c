@@ -1,5 +1,13 @@
 #include <stdio.h>
-
+/**
+ *
+ * * main - prints
+ *
+ * * Description: 
+ *
+ * * Return: int 0 when done and no errors
+ *
+ * */
 
 int main(void)
 
