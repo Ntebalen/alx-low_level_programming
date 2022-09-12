@@ -5,14 +5,9 @@
 #include <time.h>
 
 /**
- *
- * *main - entry point of programs
- *
- * *
- *
- * *Return: return 0
- *
- * */
+ *main - entry point of programs
+ *Return: return 0
+  */
 
 int main(void)
 
